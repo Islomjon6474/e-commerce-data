@@ -2,12 +2,363 @@
   "products": [
     {
       "id": 1,
-      "title": "Product Name",
-      "description": "Product description",
+      "title": "Product Name 1",
+      "description": "Product description for item 1",
       "price": 99.99,
       "currency": "USD",
-      "image": "https://via.placeholder.com/200",
+      "image": "https://via.placeholder.com/200?text=Product+1",
       "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Product Name 2",
+      "description": "Product description for item 2",
+      "price": 95.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+2",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "title": "Product Name 3",
+      "description": "Product description for item 3",
+      "price": 80.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+3",
+      "rating": 4.0
+    },
+    {
+      "id": 4,
+      "title": "Product Name 4",
+      "description": "Product description for item 4",
+      "price": 75.50,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+4",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Product Name 5",
+      "description": "Product description for item 5",
+      "price": 60.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+5",
+      "rating": 3.5
+    },
+    {
+      "id": 6,
+      "title": "Product Name 6",
+      "description": "Product description for item 6",
+      "price": 85.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+6",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "title": "Product Name 7",
+      "description": "Product description for item 7",
+      "price": 89.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+7",
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "title": "Product Name 8",
+      "description": "Product description for item 8",
+      "price": 99.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+8",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "title": "Product Name 9",
+      "description": "Product description for item 9",
+      "price": 70.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+9",
+      "rating": 3.9
+    },
+    {
+      "id": 10,
+      "title": "Product Name 10",
+      "description": "Product description for item 10",
+      "price": 88.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+10",
+      "rating": 4.1
+    },
+    {
+      "id": 11,
+      "title": "Product Name 11",
+      "description": "Product description for item 11",
+      "price": 77.77,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+11",
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Product Name 12",
+      "description": "Product description for item 12",
+      "price": 82.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+12",
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "title": "Product Name 13",
+      "description": "Product description for item 13",
+      "price": 90.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+13",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "title": "Product Name 14",
+      "description": "Product description for item 14",
+      "price": 93.50,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+14",
+      "rating": 3.8
+    },
+    {
+      "id": 15,
+      "title": "Product Name 15",
+      "description": "Product description for item 15",
+      "price": 65.65,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+15",
+      "rating": 4.0
+    },
+    {
+      "id": 16,
+      "title": "Product Name 16",
+      "description": "Product description for item 16",
+      "price": 55.55,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+16",
+      "rating": 4.2
+    },
+    {
+      "id": 17,
+      "title": "Product Name 17",
+      "description": "Product description for item 17",
+      "price": 98.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+17",
+      "rating": 4.9
+    },
+    {
+      "id": 18,
+      "title": "Product Name 18",
+      "description": "Product description for item 18",
+      "price": 92.50,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+18",
+      "rating": 4.4
+    },
+    {
+      "id": 19,
+      "title": "Product Name 19",
+      "description": "Product description for item 19",
+      "price": 84.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+19",
+      "rating": 3.6
+    },
+    {
+      "id": 20,
+      "title": "Product Name 20",
+      "description": "Product description for item 20",
+      "price": 72.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+20",
+      "rating": 4.0
+    },
+    {
+      "id": 21,
+      "title": "Product Name 21",
+      "description": "Product description for item 21",
+      "price": 89.20,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+21",
+      "rating": 4.5
+    },
+    {
+      "id": 22,
+      "title": "Product Name 22",
+      "description": "Product description for item 22",
+      "price": 78.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+22",
+      "rating": 4.8
+    },
+    {
+      "id": 23,
+      "title": "Product Name 23",
+      "description": "Product description for item 23",
+      "price": 86.75,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+23",
+      "rating": 4.1
+    },
+    {
+      "id": 24,
+      "title": "Product Name 24",
+      "description": "Product description for item 24",
+      "price": 67.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+24",
+      "rating": 3.5
+    },
+    {
+      "id": 25,
+      "title": "Product Name 25",
+      "description": "Product description for item 25",
+      "price": 91.50,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+25",
+      "rating": 4.3
+    },
+    {
+      "id": 26,
+      "title": "Product Name 26",
+      "description": "Product description for item 26",
+      "price": 73.80,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+26",
+      "rating": 3.8
+    },
+    {
+      "id": 27,
+      "title": "Product Name 27",
+      "description": "Product description for item 27",
+      "price": 87.30,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+27",
+      "rating": 4.2
+    },
+    {
+      "id": 28,
+      "title": "Product Name 28",
+      "description": "Product description for item 28",
+      "price": 93.20,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+28",
+      "rating": 4.6
+    },
+    {
+      "id": 29,
+      "title": "Product Name 29",
+      "description": "Product description for item 29",
+      "price": 58.25,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+29",
+      "rating": 3.7
+    },
+    {
+      "id": 30,
+      "title": "Product Name 30",
+      "description": "Product description for item 30",
+      "price": 97.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+30",
+      "rating": 4.8
+    },
+    {
+      "id": 31,
+      "title": "Product Name 31",
+      "description": "Product description for item 31",
+      "price": 66.60,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+31",
+      "rating": 4.1
+    },
+    {
+      "id": 32,
+      "title": "Product Name 32",
+      "description": "Product description for item 32",
+      "price": 75.75,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+32",
+      "rating": 3.9
+    },
+    {
+      "id": 33,
+      "title": "Product Name 33",
+      "description": "Product description for item 33",
+      "price": 88.88,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+33",
+      "rating": 4.0
+    },
+    {
+      "id": 34,
+      "title": "Product Name 34",
+      "description": "Product description for item 34",
+      "price": 81.81,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+34",
+      "rating": 4.4
+    },
+    {
+      "id": 35,
+      "title": "Product Name 35",
+      "description": "Product description for item 35",
+      "price": 60.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+35",
+      "rating": 4.2
+    },
+    {
+      "id": 36,
+      "title": "Product Name 36",
+      "description": "Product description for item 36",
+      "price": 50.50,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+36",
+      "rating": 3.6
+    },
+    {
+      "id": 37,
+      "title": "Product Name 37",
+      "description": "Product description for item 37",
+      "price": 85.85,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+37",
+      "rating": 4.5
+    },
+    {
+      "id": 38,
+      "title": "Product Name 38",
+      "description": "Product description for item 38",
+      "price": 77.77,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+38",
+      "rating": 4.1
+    },
+    {
+      "id": 39,
+      "title": "Product Name 39",
+      "description": "Product description for item 39",
+      "price": 83.83,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+39",
+      "rating": 4.3
+    },
+    {
+      "id": 40,
+      "title": "Product Name 40",
+      "description": "Product description for item 40",
+      "price": 99.00,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200?text=Product+40",
+      "rating": 4.7
     }
   ]
 }
